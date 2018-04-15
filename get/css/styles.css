@@ -1,0 +1,30 @@
+.landing
+{
+    margin: 0 auto;
+    margin-top: 400px;
+    display: block;
+}
+
+.header
+{
+    position: absolute;
+    margin-top:    20px;
+    margin-right:  20px;
+    margin-bottom: 200px;
+    display: block;
+}
+
+.footer
+{
+    position: absolute;
+    bottom: 10px;
+    font-size: 0.8em;
+    font-family: Palatino, serif;
+    color: gray;
+}
+
+.text
+{
+    text-align: center;
+}
+

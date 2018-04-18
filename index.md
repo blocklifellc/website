@@ -7,6 +7,5 @@ layout:
 ![BlockLife](/get/img/blocklife.svg){: .landing}
 
 {: .text}
-Blockchain Applications for Healthcare and Biotech
 
 {% include footer.md %}
